@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Developers</string>
+    <string name="todo">TODO</string>
+    <string name="txt">txt</string>
+    <string name="more">More</string>
+    <string-array name="Developers">
+        <item>Ross</item>
+        <item>Phoebe</item>
+        <item>Monica</item>
+        <item>Chandler</item>
+        <item>Joe</item>
+        <item>Rachel</item>
+    </string-array>
+</resources>
